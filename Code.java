@@ -42,6 +42,10 @@ public class Code
     private String  changed;
 
     private String  changer;
+    
+    private String empName;
+    
+    private String empid;
 
     /**
      * Sets code codegroup.
