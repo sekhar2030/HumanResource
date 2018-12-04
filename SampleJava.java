@@ -33,7 +33,9 @@ public class SampleJava {
 	public static void main(String src[])
 	{
 		
-
+// this changes to done by sekhar
+		int id;
+		
 
 	/*Calendar gcal = Calendar.getInstance();
 	SimpleDateFormat sdf = new SimpleDateFormat("yyyy.MM");
