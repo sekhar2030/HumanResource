@@ -1,0 +1,6 @@
+public class VacationTypes{
+
+private void getallVacationTypes{
+
+System.out.println("new file");
+}
