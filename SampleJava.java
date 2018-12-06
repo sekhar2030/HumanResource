@@ -36,7 +36,7 @@ public class SampleJava {
 // this changes to done by sekhar
 		//int idsekhar;
 		
-                 String two;
+                 String one;
 	/*Calendar gcal = Calendar.getInstance();
 	SimpleDateFormat sdf = new SimpleDateFormat("yyyy.MM");
 	Date start = null;
