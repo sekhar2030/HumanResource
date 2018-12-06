@@ -34,7 +34,7 @@ public class SampleJava {
 	{
 		
 // this changes to done by sekhar
-		int id;
+		//int idsekhar;
 		
 
 	/*Calendar gcal = Calendar.getInstance();
